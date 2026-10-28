@@ -1,0 +1,3 @@
+CHANGELOG Reader-Pro-DC
+v26.001.21782 2026-09-09
+Stamp rev-w9sn0u-20261028
